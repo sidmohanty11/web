@@ -10,7 +10,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "axios": "^0.26.1",
+    "axios": "^0.27.2",
     "formik": "^2.2.9",
     "js-cookie": "^3.0.1",
     "next": "12.1.5",
